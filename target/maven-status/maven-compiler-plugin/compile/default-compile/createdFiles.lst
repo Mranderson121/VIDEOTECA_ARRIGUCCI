@@ -1,0 +1,6 @@
+com\advancia\stage\model\Utente.class
+com\advancia\stage\model\Film.class
+com\advancia\stage\model\Attore.class
+com\advancia\stage\controller\VideotecaController.class
+com\advancia\stage\dao\VideotecaDAO.class
+com\advancia\stage\model\Regista.class
